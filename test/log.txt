@@ -1,0 +1,14 @@
+Total MemObj 11
+After first filter 10
+	Constant Obj
+	refCount too small 
+	refCount too small 
+	refCount too small 
+	refCount too small 
+	refCount too small 
+	not Struct Type 
+	refCount too small 
+	Type Equal
+	Type Equal
+After second filter 3
+totalObj:11,falseObj:0,unrelateObj:8,ctxObj:3

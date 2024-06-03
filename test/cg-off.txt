@@ -1,0 +1,319 @@
+./archIR/bc-results/make-sine/ms.bc
+total: nodes 1519,edges 6497,bugs 18
+reached: nodes 662,edges 4207,bug 11
+pruning...done
+reached: nodes 661,edges 4193,bug 11
+writing to the newly created file archIR/bc-results/make-sine/ms.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/libgig/akaiextract.bc
+total: nodes 1472,edges 5575,bugs 18
+reached: nodes 659,edges 3657,bug 11
+pruning...done
+reached: nodes 659,edges 3651,bug 11
+writing to the newly created file archIR/bc-results/libgig/akaiextract.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/openal-examples/alhrtf.bc
+total: nodes 1491,edges 5658,bugs 18
+reached: nodes 673,edges 3721,bug 11
+pruning...done
+reached: nodes 673,edges 3716,bug 11
+writing to the newly created file archIR/bc-results/openal-examples/alhrtf.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/openal-examples/almultireverb.bc
+total: nodes 1495,edges 5727,bugs 18
+reached: nodes 641,edges 3646,bug 11
+pruning...done
+reached: nodes 641,edges 3641,bug 11
+writing to the newly created file archIR/bc-results/openal-examples/almultireverb.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/openal-examples/alreverb.bc
+total: nodes 1482,edges 5664,bugs 18
+reached: nodes 664,edges 3727,bug 11
+pruning...done
+reached: nodes 664,edges 3722,bug 11
+writing to the newly created file archIR/bc-results/openal-examples/alreverb.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/openal-examples/allatency.bc
+total: nodes 1479,edges 5636,bugs 18
+reached: nodes 661,edges 3699,bug 11
+pruning...done
+reached: nodes 661,edges 3694,bug 11
+writing to the newly created file archIR/bc-results/openal-examples/allatency.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/openal-examples/alplay.bc
+total: nodes 2161,edges 16598,bugs 18
+reached: nodes 1132,edges 10533,bug 11
+pruning...done
+reached: nodes 1081,edges 9856,bug 11
+writing to the newly created file archIR/bc-results/openal-examples/alplay.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/rubberband/rubberband-r3.bc
+total: nodes 1624,edges 6015,bugs 18
+reached: nodes 714,edges 4199,bug 11
+pruning...done
+reached: nodes 677,edges 3969,bug 11
+writing to the newly created file archIR/bc-results/rubberband/rubberband-r3.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/rubberband/rubberband.bc
+total: nodes 1624,edges 6015,bugs 18
+reached: nodes 714,edges 4199,bug 11
+pruning...done
+reached: nodes 677,edges 3969,bug 11
+writing to the newly created file archIR/bc-results/rubberband/rubberband.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/sound-gambit/sound-gambit.bc
+total: nodes 2454,edges 21433,bugs 18
+reached: nodes 1430,edges 15052,bug 11
+pruning...done
+reached: nodes 1387,edges 14207,bug 11
+writing to the newly created file archIR/bc-results/sound-gambit/sound-gambit.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/twolame/twolame.bc
+total: nodes 1506,edges 5773,bugs 18
+reached: nodes 689,edges 3837,bug 11
+pruning...done
+reached: nodes 689,edges 3829,bug 11
+writing to the newly created file archIR/bc-results/twolame/twolame.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/whipper/accuraterip.cpython-311-x86_64-linux-gnu.so.bc
+total: nodes 1467,edges 5665,bugs 18
+reached: nodes 613,edges 3584,bug 11
+pruning...done
+reached: nodes 613,edges 3579,bug 11
+writing to the newly created file archIR/bc-results/whipper/accuraterip.cpython-311-x86_64-linux-gnu.so.bc.libsndfile.so.1.0.32.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/aribb24/libaribb24.so.0.0.0.bc
+total: nodes 685,edges 2521,bugs 7
+reached: nodes 225,edges 704,bug 1
+pruning...done
+reached: nodes 190,edges 386,bug 0
+writing to the newly created file archIR/bc-results/aribb24/libaribb24.so.0.0.0.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/caph/caph.bc
+total: nodes 633,edges 2539,bugs 7
+reached: nodes 280,edges 1350,bug 6
+pruning...done
+reached: nodes 279,edges 1233,bug 6
+writing to the newly created file archIR/bc-results/caph/caph.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/dosbox/dosbox.bc
+total: nodes 1725,edges 2415,bugs 7
+reached: nodes 206,edges 665,bug 1
+pruning...done
+reached: nodes 203,edges 544,bug 1
+writing to the newly created file archIR/bc-results/dosbox/dosbox.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/fbgrab/fbgrab.bc
+total: nodes 659,edges 2371,bugs 7
+reached: nodes 203,edges 624,bug 1
+pruning...done
+reached: nodes 163,edges 308,bug 0
+writing to the newly created file archIR/bc-results/fbgrab/fbgrab.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/fig2dev/fig2dev.bc
+total: nodes 863,edges 2784,bugs 7
+reached: nodes 306,edges 1460,bug 6
+pruning...done
+reached: nodes 306,edges 1323,bug 6
+writing to the newly created file archIR/bc-results/fig2dev/fig2dev.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/fuzzel/fuzzel.bc
+total: nodes 727,edges 2882,bugs 7
+reached: nodes 335,edges 1691,bug 6
+pruning...done
+reached: nodes 333,edges 1562,bug 6
+writing to the newly created file archIR/bc-results/fuzzel/fuzzel.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/guetzli/guetzli.bc
+total: nodes 665,edges 2849,bugs 7
+reached: nodes 306,edges 1507,bug 6
+pruning...done
+reached: nodes 294,edges 1373,bug 6
+writing to the newly created file archIR/bc-results/guetzli/guetzli.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/harvid/harvid.bc
+total: nodes 654,edges 2336,bugs 7
+reached: nodes 195,edges 587,bug 1
+pruning...done
+reached: nodes 155,edges 272,bug 0
+writing to the newly created file archIR/bc-results/harvid/harvid.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/libcupsfilters/libcupsfilters.so.2.0.0.bc
+total: nodes 687,edges 2573,bugs 7
+reached: nodes 277,edges 1233,bug 5
+pruning...done
+reached: nodes 277,edges 1217,bug 5
+writing to the newly created file archIR/bc-results/libcupsfilters/libcupsfilters.so.2.0.0.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/libicns/icns2png.bc
+total: nodes 660,edges 2350,bugs 7
+reached: nodes 203,edges 603,bug 1
+pruning...done
+reached: nodes 162,edges 286,bug 0
+writing to the newly created file archIR/bc-results/libicns/icns2png.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/libicns/png2icns.bc
+total: nodes 645,edges 2564,bugs 7
+reached: nodes 292,edges 1377,bug 6
+pruning...done
+reached: nodes 292,edges 1265,bug 6
+writing to the newly created file archIR/bc-results/libicns/png2icns.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/ming/png2dbl.bc
+total: nodes 651,edges 2695,bugs 7
+reached: nodes 294,edges 1505,bug 6
+pruning...done
+reached: nodes 285,edges 1354,bug 6
+writing to the newly created file archIR/bc-results/ming/png2dbl.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/ming/dbl2png.bc
+total: nodes 738,edges 2579,bugs 7
+reached: nodes 273,edges 758,bug 1
+pruning...done
+reached: nodes 247,edges 478,bug 1
+writing to the newly created file archIR/bc-results/ming/dbl2png.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/mjpegtools/png2yuv.bc
+total: nodes 674,edges 2965,bugs 7
+reached: nodes 326,edges 1594,bug 6
+pruning...done
+reached: nodes 314,edges 1464,bug 6
+writing to the newly created file archIR/bc-results/mjpegtools/png2yuv.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/plymouth/libply-splash-graphics.so.5.0.0.bc
+total: nodes 653,edges 2751,bugs 7
+reached: nodes 296,edges 1409,bug 6
+pruning...done
+reached: nodes 296,edges 1296,bug 6
+writing to the newly created file archIR/bc-results/plymouth/libply-splash-graphics.so.5.0.0.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/qrencode/qrencode.bc
+total: nodes 709,edges 2526,bugs 7
+reached: nodes 253,edges 750,bug 1
+pruning...done
+reached: nodes 248,edges 595,bug 1
+writing to the newly created file archIR/bc-results/qrencode/qrencode.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/rgbds/randtilegen.bc
+total: nodes 747,edges 2583,bugs 7
+reached: nodes 289,edges 738,bug 1
+pruning...done
+reached: nodes 257,edges 451,bug 0
+writing to the newly created file archIR/bc-results/rgbds/randtilegen.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/slim/slim.bc
+total: nodes 630,edges 2472,bugs 7
+reached: nodes 274,edges 1279,bug 5
+pruning...done
+reached: nodes 274,edges 1214,bug 5
+writing to the newly created file archIR/bc-results/slim/slim.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/slim/libslim.so.1.4.0.bc
+total: nodes 642,edges 2510,bugs 7
+reached: nodes 283,edges 1317,bug 5
+pruning...done
+reached: nodes 283,edges 1252,bug 5
+writing to the newly created file archIR/bc-results/slim/libslim.so.1.4.0.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/sox/libsox.so.3.0.0.bc
+total: nodes 1222,edges 2647,bugs 7
+reached: nodes 280,edges 815,bug 1
+pruning...done
+reached: nodes 250,edges 520,bug 1
+writing to the newly created file archIR/bc-results/sox/libsox.so.3.0.0.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xautomation/patextract.bc
+total: nodes 652,edges 2765,bugs 7
+reached: nodes 309,edges 1423,bug 6
+pruning...done
+reached: nodes 295,edges 1287,bug 6
+writing to the newly created file archIR/bc-results/xautomation/patextract.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xautomation/pat2ppm.bc
+total: nodes 652,edges 2765,bugs 7
+reached: nodes 309,edges 1423,bug 6
+pruning...done
+reached: nodes 295,edges 1287,bug 6
+writing to the newly created file archIR/bc-results/xautomation/pat2ppm.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xautomation/visgrep.bc
+total: nodes 652,edges 2765,bugs 7
+reached: nodes 309,edges 1423,bug 6
+pruning...done
+reached: nodes 295,edges 1287,bug 6
+writing to the newly created file archIR/bc-results/xautomation/visgrep.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xautomation/rgb2pat.bc
+total: nodes 652,edges 2765,bugs 7
+reached: nodes 309,edges 1423,bug 6
+pruning...done
+reached: nodes 295,edges 1287,bug 6
+writing to the newly created file archIR/bc-results/xautomation/rgb2pat.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xautomation/png2pat.bc
+total: nodes 652,edges 2765,bugs 7
+reached: nodes 309,edges 1423,bug 6
+pruning...done
+reached: nodes 295,edges 1287,bug 6
+writing to the newly created file archIR/bc-results/xautomation/png2pat.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xcur2png/xcur2png.bc
+total: nodes 656,edges 2333,bugs 7
+reached: nodes 200,edges 587,bug 1
+pruning...done
+reached: nodes 159,edges 273,bug 0
+writing to the newly created file archIR/bc-results/xcur2png/xcur2png.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xorg-xcursorgen/xcursorgen.bc
+total: nodes 669,edges 2894,bugs 7
+reached: nodes 316,edges 1551,bug 6
+pruning...done
+reached: nodes 316,edges 1362,bug 6
+writing to the newly created file archIR/bc-results/xorg-xcursorgen/xcursorgen.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
+
+./archIR/bc-results/xwallpaper/xwallpaper.bc
+total: nodes 613,edges 2355,bugs 7
+reached: nodes 266,edges 1208,bug 6
+pruning...done
+reached: nodes 266,edges 1102,bug 6
+writing to the newly created file archIR/bc-results/xwallpaper/xwallpaper.bc.libpng16.so.16.38.0.bc.cgr.tmp
+ done. 
